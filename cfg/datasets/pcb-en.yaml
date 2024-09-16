@@ -1,0 +1,11 @@
+train: /home/zhaohuohuo/pcb-yolo-en-clean-v2/pcb-yolo-en-clean-v2/images/train
+val: /home/zhaohuohuo/pcb-yolo-en-clean-v2/pcb-yolo-en-clean-v2/images/val
+test: /home/zhaohuohuo/pcb-yolo-en-clean-v2/pcb-yolo-en-clean-v2/images/test
+names: ["missing_hole",
+"mouse_bite",
+"open_circuit",
+"short",
+"spur",
+"spurious_copper"
+]
+nc: 6

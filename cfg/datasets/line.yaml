@@ -1,0 +1,6 @@
+train: /home/zhaohuohuo/line/images/train
+val: /home/zhaohuohuo/line/images/val
+test: /home/zhaohuohuo/line/images/test
+names: ["1"
+]
+nc: 1

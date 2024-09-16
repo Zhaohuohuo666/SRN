@@ -1,0 +1,8 @@
+train: /home/zhaohuohuo/dior_data/DIOR_dataset/images/train
+val: /home/zhaohuohuo/dior_data/DIOR_dataset/images/val
+test: /home/zhaohuohuo/dior_data/DIOR_dataset/images/test
+names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam',
+           'Expressway-Service-area', 'Expressway-toll-station', 'golffield', 'groundtrackfield', 'harbor',
+           'overpass', 'ship', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill'
+]
+nc: 20

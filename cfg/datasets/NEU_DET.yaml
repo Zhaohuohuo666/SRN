@@ -1,0 +1,5 @@
+train: /home/zhaohuohuo/NEU-DET/images/train
+val: /home/zhaohuohuo/NEU-DET/images/val
+test: /home/zhaohuohuo/NEU-DET/images/test
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
+nc: 6

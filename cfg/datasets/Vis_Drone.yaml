@@ -1,0 +1,5 @@
+train: /home/zhaohuohuo/VisDrone/images/train
+val: /home/zhaohuohuo/VisDrone/images/val
+test: /home/zhaohuohuo/VisDrone/images/test
+names: [ 'pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
+nc: 10
